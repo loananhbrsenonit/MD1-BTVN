@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What is CSS</title>
+    
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <h1>What is CSS</h1>
+    <p class="blue-text"><strong>Cascading by sheet (CSS)</strong> is used to fomat the layout of a webpage</p>
+    <p class="red-text">With CSS, you can control color, front, the size of text, the spacing betwen elements, how elements are positioned and laid out, what background images or background color are to be used, different display for diffenrent devices and screen size, and much more. </p> 
+    <div class="tip">
+        <strong>Tip:</strong> The word <strong>Cascading</strong> means that a type applied to the parent element will also apply to all children element within the parent. So, if you set the color of the body text to "blue" all heading, paragraph, and other text element within the body will also get the same color (unless you specify something else) </div>
+</body>
+</html>
