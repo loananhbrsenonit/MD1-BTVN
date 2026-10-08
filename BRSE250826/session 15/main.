@@ -1,0 +1,7 @@
+let arr =['c','s','c','2','6','1'];
+//hiển thị mảng ban đầu
+document.getElementById("original").textContent = arr.join("");
+//Đảo ngược mảng
+arr.reverse();
+//Hiển thị kết quả
+document.getElementById("result").textContent = arr.join("");
